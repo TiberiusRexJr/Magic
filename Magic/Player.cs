@@ -29,9 +29,6 @@ namespace Magic
             position.Y = MathHelper.Clamp(position.Y, height * 0.5f, (Game1.max_Y) - (height * 0.5f));
         }
 
-        
-
-
 
     }
 }

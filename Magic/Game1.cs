@@ -42,7 +42,7 @@ namespace Magic
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-            player_texture = base.Content.Load<Texture2D>(@"player"); //@ to create a string
+            player_texture = base.Content.Load<Texture2D>(@"player1"); //@ to create a string
 
             // TODO: use this.Content to load your game content here
         }
